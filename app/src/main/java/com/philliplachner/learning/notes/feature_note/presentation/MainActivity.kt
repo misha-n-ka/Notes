@@ -1,4 +1,4 @@
-package com.philliplachner.learning.notes
+package com.philliplachner.learning.notes.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
