@@ -1,6 +1,6 @@
 package com.philliplachner.learning.notes.feature_note.domain.use_case
 
-import com.philliplachner.learning.notes.feature_note.domain.NoteRepository
+import com.philliplachner.learning.notes.feature_note.domain.repository.NoteRepository
 import com.philliplachner.learning.notes.feature_note.domain.model.Note
 import com.philliplachner.learning.notes.feature_note.domain.util.NoteOrder
 import com.philliplachner.learning.notes.feature_note.domain.util.OrderType

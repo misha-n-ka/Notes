@@ -1,7 +1,7 @@
 package com.philliplachner.learning.notes.feature_note.data.repository
 
-import com.philliplachner.learning.notes.feature_note.data.data_source.NoteDao
-import com.philliplachner.learning.notes.feature_note.domain.NoteRepository
+import com.philliplachner.learning.notes.feature_note.data.db.NoteDao
+import com.philliplachner.learning.notes.feature_note.domain.repository.NoteRepository
 import com.philliplachner.learning.notes.feature_note.domain.model.Note
 import kotlinx.coroutines.flow.Flow
 

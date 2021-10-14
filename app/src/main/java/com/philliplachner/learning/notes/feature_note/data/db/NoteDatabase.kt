@@ -1,4 +1,4 @@
-package com.philliplachner.learning.notes.feature_note.data.data_source
+package com.philliplachner.learning.notes.feature_note.data.db
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
